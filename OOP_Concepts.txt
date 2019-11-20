@@ -1,0 +1,29 @@
+===========================
+OOP concepts
+1. Object - Real world entity
+                 -  properties(variables)
+                 -  tasks(methods)
+                 -  instance of class
+                 -  ex: myself is an object                 
+                    of class human.
+
+2. Class  -  Blueprint that object 
+                    follows.
+
+3. Abstraction - Showing only the 
+                             essential parts 
+                             and hinding the 
+                             Implementation 
+                             part.
+
+4. Encapsulation 
+    - Binding variables & methods 
+      under single 
+      
+5. Inheritance
+     - Aquaring the properties of 
+        one class to the other.
+        From super class
+        (Base,Parent) to Child class
+        (Derived,Sub)
+6. Polymorphism
